@@ -1,13 +1,13 @@
 {
- "name":"Tchaikovskaya Tatyana Vyacheslavovna",
- "age":23,
- "pets":1,
- "salary":1000
- "favMovie":"Jane Eyre",
- "favSeries":"Game of thrones",
- "favDish":"Draniki",
- "favSeason":"Spring",
- "countryToVisit":"Korea"
+ "name": "Tchaikovskaya Tatyana Vyacheslavovna",
+ "age": 23,
+ "pets": 1,
+ "salary": 1000
+ "favMovie": "Jane Eyre",
+ "favSeries": "Game of thrones",
+ "favDish": "Draniki",
+ "favSeason": "Spring",
+ "countryToVisit": "Korea"
 }
 
 
