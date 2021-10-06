@@ -1,5 +1,5 @@
-любимый фильм: Дорога к дому
-любимый сериал: Игра Престолов
-любимая еда: драники
-любимое время года: весна
-страна, которую хотели бы посетить: Корея
+Favorite movie: Jane Eyre
+Favorite series: Game of thrones
+Favorite dish: Draniki
+Favorite season: Spring
+Country to visit: Korea
