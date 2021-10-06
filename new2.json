@@ -4,9 +4,8 @@
 <age>25 лет</age>
 <pets>1 кот</pets>
 <salary>500$</salary>
-</about_me>
-Любимый фильм: Дорога к дому
-Любимый сериал: Игра престолов
-Любимая еда: драники
-Любимое время года: весна
-Страна, которую хотели бы посетить: Корея
+<fav_movie>Дорога к дому</fav_movie>
+<fav_tvseries>Игра престолов</fav_tvseries>
+<fav_dish>драники</fav_dish>
+<fav_season>весна</fav_season>
+<country_to_visit>Корея</country_to_visit>
