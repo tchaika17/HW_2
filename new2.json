@@ -1,13 +1,37 @@
-<about_me>
+{
+ "name":"Tchaikovskaya Tatyana Vyacheslavovna",
+ "age":23,
+ "pets":1,
+ "salary":1000
+}
 
-<name>Иванова Елена Владимировна</name>
-<age>25 лет</age>
-<pets>1 кот</pets>
-<salary>500$</salary>
-<fav_movie>Дорога к дому</fav_movie>
-<fav_tvseries>Игра престолов</fav_tvseries>
-<fav_dish>драники</fav_dish>
-<fav_season>весна</fav_season>
-<country_to_visit>Корея</country_to_visit>
 
-<about_me>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
