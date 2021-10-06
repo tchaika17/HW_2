@@ -1,4 +1,4 @@
-Tchaikovskaya Tatyana Vyacheslavovna
-23
-1 cat
-1000$
+Name: Tchaikovskaya Tatyana Vyacheslavovna
+Age: 23
+Pets: 1
+Salary: 1000
