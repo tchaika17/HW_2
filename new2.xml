@@ -1,10 +1,12 @@
 <?xml version = "1.0"?>
-<NAME>Tchaikovskaya Tatyana Vyacheslavovna</NAME>
-<AGE>23</AGE>
-<PETS>1</PETS>
-<SALARY>1000</SALARY>
-<MOVIE>Jane Eyre</MOVIE>
-<SERIES>Game of Thrones</SERIES>
-<DISH>Draniki</DISH>
-<SEASON>Spring</SEASON>
-<COUNTRY>Korea</COUNTRY>
+<ABOUTME>
+  <NAME>Tchaikovskaya Tatyana Vyacheslavovna</NAME>
+  <AGE>23</AGE>
+  <PETS>1</PETS>
+  <SALARY>1000</SALARY>
+  <MOVIE>Jane Eyre</MOVIE>
+  <SERIES>Game of Thrones</SERIES>
+  <DISH>Draniki</DISH>
+  <SEASON>Spring</SEASON>
+  <COUNTRY>Korea</COUNTRY>
+</ABOUTME>
