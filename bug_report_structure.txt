@@ -1,0 +1,7 @@
+1) Bug_id:
+2) Title/summary:
+3) Preconditions:
+4) Steps to reproduce:
+5) Actual result:
+6) Expected result:
+7) Attachments:
