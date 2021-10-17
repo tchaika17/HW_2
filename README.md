@@ -1,2 +1,1 @@
-# HW_2
-Homework №2 (Terminal, Git, GitHub)
+Terminal, Git, GitHub (Homework №2, homework №3)
